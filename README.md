@@ -8,7 +8,7 @@ There are 4 main ways of using conditionals, which are a combination of conditio
 3) if-elif-else
 4) Nested if  ---> An if statment nested "within" another if conditional statement
 
-There are 4 bash scripts of interest to the topic discussed in class:
+There are 4 bash scripts of interest to the topic discussed in class and which have been uploaded to this repository:
 1. namecheck.sh ---> A script to welcome user if name entered is Ambika or ambika (starting with upper or lower case), and warn user if somebody else.
 2. numbercheck.sh ---> A script to check whether 2 numbers entered by the user are equal to, less than or greater than each other.
 3. elif.sh ---> A script to grade student on exam out of 100 marks, when the user enters their marks obtained. This uses elif extensively.
