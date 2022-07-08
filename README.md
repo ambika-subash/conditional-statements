@@ -34,7 +34,7 @@ In terminal, run the script by typing:
 *******************************************************************************************************************************************
 
 *Syntax for if*
-if [[ conditional_statement ]]
+if [[ conditional_statement ]] \n
 then
   command
 fi
